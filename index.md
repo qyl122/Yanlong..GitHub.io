@@ -11,10 +11,15 @@ My research area is mobile computing, including healthcare, human identification
 ### Teaching
 
 Fall 2017, Southern University of Science and Technolgy, Computer Networking 
+
 Spring 2018, Southern University of Science and Technolgy, Computer Organization
+
 Fall 2019, Temple University, CIS 1051 - Introduction to Problem Solving and Programming in Python
+
 Fall 2019, Temple University, CIS 3329 - Network Architectures
+
 Spring 2020, Temple University, CIS 1068 - Program Design and Abstraction
+
 Spring 2020, Temple University, CIS 3329 - Network Architectures
 
 ### Activities
